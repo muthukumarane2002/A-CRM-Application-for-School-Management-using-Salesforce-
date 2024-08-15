@@ -1,4 +1,4 @@
-# A-CRM-APPLICATION-FOR-SCHOOL-
+# A-CRM-Application-for-School-Management-using-Salesforce-
 
 ● Led a team in the development of a Salesforce-based CRM tailored for school management purposes. 
 
